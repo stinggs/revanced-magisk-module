@@ -13,6 +13,7 @@ version = "auto"                                                      # 'auto', 
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music]
+enabled = false
 build-mode = "both"
 excluded-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
